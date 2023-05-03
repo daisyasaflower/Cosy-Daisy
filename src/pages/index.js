@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import TopNavigation from '../components/topNavigation'
+import TopNavigation from '../components/TopNavigation'
 import SocialMedia from '../components/SocialMedia'
 import HeroSection from '../components/HeroSection'
 import NewArival from '../components/NewArival'
